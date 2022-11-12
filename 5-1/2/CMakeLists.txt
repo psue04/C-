@@ -1,0 +1,1 @@
+add_excutable(test 2.cpp)
